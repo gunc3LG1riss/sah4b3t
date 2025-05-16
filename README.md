@@ -17,7 +17,7 @@
 <p>Yeni üyelere <strong>özel içerikler</strong> ve ilk girişte <strong>sürpriz hediyeler</strong>!</p>
 
 <h3>📱 Her Yerde Sahabet</h3>
-<p>Mobil uyumlu yapısıyla istediğiniz yerden erişim</p>
+<p>Mobil uyumlu yapısıyla istediğiniz yerden erişim.</p>
 
 <p>✨ <strong>Sahabet'in renkli dünyasına şimdi katılın!</strong></p>
 
